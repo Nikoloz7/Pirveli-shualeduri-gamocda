@@ -1,0 +1,104 @@
+.title {
+	text-align: center;
+	font-size: 18px;
+}
+
+.Center{
+	text-align: center;
+	font-size: 48px;
+	color: #fff;
+}
+
+.bigbox {
+	height: 700%;
+	width: 92%;
+	background-color: #56836F;
+	border: 5px solid #004600;
+	margin: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	padding: 3% 
+}
+.TEXT1 
+{
+	font-size: 14px;
+	color: #000000; 
+	padding-top: 22px;
+    padding-left: 38px;
+    display: inline-block;
+    text-align: left;
+
+	font-size: 14px;
+	color: black;
+	width: 786px;
+	height: 64px;
+	padding-top: 36px;
+	padding-left: 30px;
+	display: inline-block;
+	font-family: Roboto;
+}
+.logo
+{
+	width: 201px;
+	height: 150px;
+	padding-left: 1100px;
+	top: 89px;
+	display: inline-block;
+
+}
+.mediumbox1
+{
+	width: 617px;
+	height: 370px;
+	background-color: #FCEE21;
+	margin-top:  304px;
+	margin-left: 30px;
+	border-top: 30px;
+	margin: 2% 2%;
+}
+
+.logo1
+{
+	width: 150px;
+	height: 100px;
+    padding-top: 17px;
+    padding-left: 438px;
+    position: absolute;
+}
+.TEXT2
+{
+	font-size: 14px;
+	color: green; 
+	padding-top: 22px;
+    padding-left: 38px;
+    display: inline-block;
+    text-align: left;
+}
+.mediumbox2
+{
+	width: 617px;
+    height: 370px;
+    margin-top: -320px;
+    background-color: #FCEE21;
+    margin-left:650px;
+   
+}
+
+.logo2
+{
+	width: 150px;
+	height: 100px;
+    padding-top: 17px;
+    padding-left: 30px;
+    position: absolute;
+}
+.TEXT2
+{
+	color: #006837;
+	font-size: 14px;
+	padding-right: : 30px;
+	padding-top: 22px;
+	display: inline-block;
+	position: absolute;
+	text-align: right;
+}
